@@ -1,0 +1,28 @@
+Store Performance Analysis -->
+
+Bengalore, Chennai, Hyderabad and Mysore are top performing cities
+
+Coimbatore , Mangalore and trivandrum are low performing cities
+
+Combo1, Grocery & Staples, Home Appliances are the categories contributing highest Incremental Revenue and Incremental Sold Units
+
+
+Promotion Type Analysis --> 
+
+500 Cashback and BOGOF worked well
+
+Sankranti showed highest ISU rather than Diwali
+
+Analysis of low performing promotion type in terms of IR --> shows product names which contributed to low Incremental Revenue
+
+
+Product and Category Analysis -->
+
+Bengaluru has highest ISU while Trivandrum being the lowest
+
+Atliq farm chakki atta contributed highest to ISU
+
+Atliq fusion container set of 3 contributed lowest to IR
+
+
+
